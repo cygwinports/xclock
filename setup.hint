@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXaw8 libXft2 libxkbfile1
+requires: cygwin libX11_6 libXaw8 libXft2 libXmu6 libXrender1 libXt6 libxkbfile1
 sdesc: "Xorg clock"
 ldesc: "Xorg clock"
