@@ -1,4 +1,4 @@
 category: X11
-requires: libX11_6 libXaw7 libXft2 libXmu6 libXrender1 libXt6 libxkbfile1
+requires: libiconv2 libX11_6 libXaw7 libXft2 libXmu6 libXrender1 libXt6 libxkbfile1
 sdesc: "X.Org clock"
 ldesc: "X.Org clock"

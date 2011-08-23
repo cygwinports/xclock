@@ -1,0 +1,4 @@
+inherit xorg
+
+
+PATCH_URI="1.0.5-iconv.patch"
